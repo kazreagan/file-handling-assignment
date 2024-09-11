@@ -1,0 +1,6 @@
+Hello there! this is my line 1.
+this is my line 2 with a number: 28
+my line 3 includes a string and a number: 12 books
+this is my line 4.
+this is my line 5 with a number: 128
+and this is my line 6.
